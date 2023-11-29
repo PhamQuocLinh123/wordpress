@@ -1,0 +1,7 @@
+2023-11-29T15:40:59+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2023-11-29T15:40:59+00:00 INFO Send weekly emails to phamlinhquoc31@gmail.com
+2023-11-29T15:40:59+00:00 INFO Total Revenue: <span class="woocommerce-Price-amount amount"><bdi>0<span class="woocommerce-Price-currencySymbol">VND</span></bdi></span>
+2023-11-29T15:41:02+00:00 INFO Email send status for email phamlinhquoc31@gmail.com is 
+2023-11-29T17:24:23+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2023-11-29T17:24:23+00:00 INFO Only for thank you page
+2023-11-29T17:24:23+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
